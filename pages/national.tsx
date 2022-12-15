@@ -64,7 +64,7 @@ const National: NextPage = () => {
                                     Jose Correra, a House Democrat, said.
                                 </Text>
                                 <Text className="mt-5">
-                                    Immigration hawks, on the other hand, dislike the new policy's amnesty towards current illegal immigrants. They believe that all illegal immigrants should
+                                    Immigration hawks, on the other hand, dislike the new policy&apos;s amnesty towards current illegal immigrants. They believe that all illegal immigrants should
                                     be deported. It will be hard to garner support for this plan in both parties as Title 42, which expels immigrants at the border
                                     due to COVID-19 risks, will expire in the following two weeks.
                                 </Text>
