@@ -57,7 +57,7 @@ const International: NextPage = () => {
                                     Britney Griner was seen by many as completely innocent, so her arrest in Russia sparked anger among
                                     the general American public. Though after she was released, a big handful of people believe that the prison
                                     exchange should have never happened. They believe that trading a basketball player for an arms dealer
-                                    is a horrible trade. Others believe that Britney Griner&apos;s release was all a part of Putin&apos;s plan to divide
+                                    is a horrible trade. Others believe that Britney Griner's release was all a part of Putin's plan to divide
                                     the US further. "Deepening America’s racial divides is part of a long-standing Soviet playbook," quotes an MSNBC
                                     opinion article.
                                 </Text>
@@ -83,7 +83,7 @@ const International: NextPage = () => {
                                     European governments respond with heavy criticism after learning that the execution wasn’t fair due to Shekari not getting a lawyer and without due process. Many people around the world were outraged by this act, including the former President of Iran himself who told the government to be more lenient towards the protesters.
                                 </Text>
                                 <Text className="mt-5">
-                                    Many more people are wanted for execution and many have already died from the regime&apos;s abuse of power, this includes Mahsa who was killed for wearing her hijab incorrectly. Iran is currently wanted for an investigation for violations against human rights and many want the regime to be overthrown and replaced with a better one.
+                                    Many more people are wanted for execution and many have already died from the regime's abuse of power, this includes Mahsa who was killed for wearing her hijab incorrectly. Iran is currently wanted for an investigation for violations against human rights and many want the regime to be overthrown and replaced with a better one.
                                 </Text>
                                 <a className="link mt-5" href="https://www.cnn.com/2022/12/08/middleeast/iran-executes-first-protester-intl-hnk">More Info</a>
                                 <button className="btn w-full mt-10" onClick={() => { setArticle(0) }}>Return to News Page</button>

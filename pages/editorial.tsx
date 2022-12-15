@@ -25,7 +25,7 @@ const Editorial: NextPage = () => {
                             <Card title="Opinion: The Trade Should Have Never Happened" action={
                                 <button className="btn" onClick={() => { setArticle(1) }}>Read Article</button>
                             } src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-12/221208-Brittney-Griner-nevada-an-3c64a1.jpg">
-                                This op-ed analyzes the pros and cons of Viktor Bout&apos;s trade for Britney Griner.
+                                This op-ed analyzes the pros and cons of Viktor Bout's trade for Britney Griner.
                             </Card>
                             <Card title="Opinion: Iran Should be Overthrown" action={
                                 <button className="btn" onClick={() => { setArticle(2) }}>Read Article</button>
@@ -39,13 +39,21 @@ const Editorial: NextPage = () => {
                             <Content>
                                 <Img src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/rockcms/2022-12/221208-Brittney-Griner-nevada-an-3c64a1.jpg" />
                                 <Text className="mt-10">
-                                    In recent months, Iran has had and currently does have a lot of protests going around over the death of Mahsa and the execution of Shekari. These recent protests are a start of something great that can finally change how the regime of Iran looks at its people. 
+                                    Britney Griner is a WNBA basketball player who was traded with Viktor Bout, a Russian Arms dealer. This trade is a 
+                                    loss for America and should have never happened.
                                 </Text>
                                 <Text className="mt-5">
-                                    Many people in Iran have been outraged due to the death of one Mahsa for wearing her hijab incorrectly and the first execution of a person due to protesting. These reasons give them all the right to protests and this isn’t including the many deaths that have happened in between. This is supported even more by the fact Shekari did not get due process or even a lawyer. 
+                                    Britney Griner was arrested under "drug-smuggling" charges with little proof released from Russia. It is true that Griner
+                                    was most likely wrongfully detained, but trading the "Merchant of Death" arms dealer Viktor Bout for a basketball player is a 
+                                    tremendous mistake for the US. Viktor Bout is pure evil for conspiring with terrorist orginizations and supporting the Russian invasion
+                                    of Ukraine "full-heartedly". 
                                 </Text>
                                 <Text className="mt-5">
-                                    Even European officials have even criticized that Iran is abusing the power they have over the country by not treating them fair or equally. The past president even stated that they should be more cooperative and listen to the protesters. The way Iran uses its power is seen by everyone and is under investigations.They should be found guilty of human rights violations and be replaced with a much better regime over the country to balance it.
+                                    Biden, who claims that Griner is an icon to Americans, is not completely wrong in his statement. However, the trade is completely advantageous
+                                    towards Russia, who just received a crazed Putin-smoocher that would happily wreak more havoc in the US, which is helpful for Russia.
+                                    Biden should have instead at least bartered with Russia to get Griner and a wrongfully detained marine back for Viktor Bout. 
+                                    Biden's trade represents a worldview that icons are more important than people who have sacrificed their livelihoods for this country, and that
+                                    we are allowed to go as far to trade a terrorist for an icon.
                                 </Text>
                                 <button className="btn w-full mt-10" onClick={() => { setArticle(0) }}>Return to News Page</button>
                                 <div className="h-6"></div>
@@ -57,13 +65,13 @@ const Editorial: NextPage = () => {
                             <Content>
                                 <Img src="https://media.cnn.com/api/v1/images/stellar/prod/221208011208-iran-tehran-protests-file.jpg?c=16x9&q=h_720,w_1280,c_fill" />
                                 <Text className="mt-10">
-                                    Protests in Iran spark again and again as the government tries to suppress the protests with brutal methods. A man named Shekari stabbed a paramilitary force member in the capital, Tehran, and one month later, he was executed by hanging. The first death from execution due to the recent protests.
+                                In recent months, Iran has had and currently does have a lot of protests going around over the death of Mahsa and the execution of Shekari. These recent protests are a start of something great that can finally change how the regime of Iran looks at its people. 
                                 </Text>
                                 <Text className="mt-5">
-                                    European governments respond with heavy criticism after learning that the execution wasn’t fair due to Shekari not getting a lawyer and without due process. Many people around the world were outraged by this act, including the former President of Iran himself who told the government to be more lenient towards the protesters.
+                                Many people in Iran have been outraged due to the death of one Mahsa for wearing her hijab incorrectly and the first execution of a person due to protesting. These reasons give them all the right to protests and this isn’t including the many deaths that have happened in between. This is supported even more by the fact Shekari did not get due process or even a lawyer. 
                                 </Text>
                                 <Text className="mt-5">
-                                    Many more people are wanted for execution and many have already died from the regime&apos;s abuse of power, this includes Mahsa who was killed for wearing her hijab incorrectly. Iran is currently wanted for an investigation for violations against human rights and many want the regime to be overthrown and replaced with a better one.
+                                Even European officials have even criticized that Iran is abusing the power they have over the country by not treating them fair or equally. The past president even stated that they should be more cooperative and listen to the protesters. The way Iran uses its power is seen by everyone and is under investigations.They should be found guilty of human rights violations and be replaced with a much better regime over the country to balance it.
                                 </Text>
                                 <button className="btn w-full mt-10" onClick={() => { setArticle(0) }}>Return to News Page</button>
                                 <div className="h-6"></div>
